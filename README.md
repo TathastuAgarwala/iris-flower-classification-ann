@@ -158,7 +158,7 @@ The extra hidden layers let the ANN capture non-linear patterns, which gains abo
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/iris-flower-classification-ann.git
+git clone https://github.com/TathastuAgarwala/iris-flower-classification-ann.git
 cd iris-flower-classification-ann
 
 # 2. (Optional) create a virtual environment
